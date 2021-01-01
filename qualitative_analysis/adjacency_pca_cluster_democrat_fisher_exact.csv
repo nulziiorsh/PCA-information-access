@@ -1,0 +1,2 @@
+p_value,contingency_table
+3.0081995415568617e-22,"{'democrat': [114, 78], 'not-democrat': [236, 10]}"

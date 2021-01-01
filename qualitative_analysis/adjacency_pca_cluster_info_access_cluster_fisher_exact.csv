@@ -1,0 +1,2 @@
+p_value,contingency_table
+4.484375266481022e-27,"{'info_access_cluster': [118, 83], 'not-info_access_cluster': [232, 5]}"
