@@ -4,7 +4,7 @@ Author: Nasanbayar Ulzii-Orshikh
 
 Date: 01/06/2021
 
-**Abstract:**
+**ABSTRACT:**
 
 Clustering nodes in a social network based on their degree of information access is a tool with enormous potential to address the epistemic inequity, rooted from digital space (Beilinson et al. 2020).
 However, producing a network representation, called "information access signatures", that is appropriate for such clustering is computationally expensive, taking at least O(n^2) time.
