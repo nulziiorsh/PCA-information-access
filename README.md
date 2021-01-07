@@ -13,9 +13,8 @@ The full paper manuscript can be provided upon request from nulziiorsh@haverford
 
 **PIPELINE:**
 
-The project's pipeline and relation to Beilinson et al. 2020:
-
 ![project_pipeline.jpeg](project_pipeline.jpeg)
+Figure 1. The project's pipeline and relation to Beilinson et al. 2020.
 
 **EXAMPLE INPUT:**
 
