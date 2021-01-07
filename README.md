@@ -10,7 +10,7 @@ Then, this project explores three representations of the 114th Congressional co-
 
 Project's pipeline and relation to Beilinson et al. 2020:
 
-![project_pipeline.jpeg][project_pipeline.jpeg]
+![project_pipeline.jpeg](project_pipeline.jpeg)
 
 Example input: python3 main_pipelines.py -m info_access -n 2
 
