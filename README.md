@@ -17,8 +17,8 @@ The project's pipeline and relation to Beilinson et al. 2020:
 
 Example input: python3 main_pipelines.py -m info_access -n 2
 
--m is the mode from {info_access, adjacency, node2vec, all} and -n is the number of PCs from [1,3].
+-m is the mode from {info_access, adjacency, node2vec, all}, and -n is the number of PCs from [1,3].
 
-The hypothesis testing results (Fisher Exact tests) were statistically significant and can be found in the qualitative_analysis folder. Relevant plots in the plots one.
+The results from Fisher Exact tests, used for hypothesis testing, were statistically significant and can be found in the qualitative_analysis folder. Relevant plots in the plots one.
 
 Citation: Hannah C. Beilinson et al., "Clustering via Information Access in a Network", 2020.
