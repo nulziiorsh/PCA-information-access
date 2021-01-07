@@ -21,4 +21,6 @@ Example input: python3 main_pipelines.py -m info_access -n 2
 
 The results from Fisher Exact tests, used for hypothesis testing, were statistically significant and can be found in the qualitative_analysis folder. Relevant plots in the plots one.
 
-Citation: Hannah C. Beilinson et al., "Clustering via Information Access in a Network", 2020.
+**Citation:**
+
+Hannah C. Beilinson et al., "Clustering via Information Access in a Network", 2020.
