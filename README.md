@@ -12,7 +12,6 @@ Then, this project explores three representations of the 114th Congressional co-
 The full paper manuscript can be provided upon request from nulziiorsh@haverford.edu. Thank you! :)
 
 **PIPELINE:**
-
 ![project_pipeline.jpeg](project_pipeline.jpeg)
 Figure 1. The project's pipeline and relation to Beilinson et al. 2020.
 
