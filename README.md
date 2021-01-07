@@ -11,6 +11,8 @@ However, producing a network representation, called "information access signatur
 Then, this project explores three representations of the 114th Congressional co-sponsorship network -- information access signatures, adjacency matrix, and representation with node2vec -- using Principal Component Analysis (PCA) to find and experimentally validate a computationally less expensive pipeline of information access clustering.
 The full paper manuscript can be provided upon request from nulziiorsh@haverford.edu. Thank you! :)
 
+**PIPELINE:**
+
 The project's pipeline and relation to Beilinson et al. 2020:
 
 ![project_pipeline.jpeg](project_pipeline.jpeg)
